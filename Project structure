@@ -1,0 +1,15 @@
+# Flashcard-Quiz-App---Project-Setup
+Flashcard Quiz App Implementation report 
+flashcard-quiz-app/
+├── README.md
+├── report.md
+├── src/
+│   ├── index.html
+│   ├── styles.css
+│   └── script.js
+├── output/
+│   └── screenshots/
+│       ├── add-card.png
+│       ├── quiz-mode.png
+│       └── results.png
+└── LICENSE
